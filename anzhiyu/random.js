@@ -1,1 +1,1 @@
-var posts=["2023/09/29/Linux常用命令(1)/","2023/10/10/各类文件头尾总结/","2023/10/10/TCP的三次握手/","2023/10/09/Linux常用命令(2)/","2023/09/26/基础CTF-1/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/10/09/Linux常用命令(2)/","2023/09/29/Linux常用命令(1)/","2023/10/10/TCP的三次握手/","2023/10/10/各类文件头尾总结/","2023/10/10/测试/","2023/09/26/基础CTF-1/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
